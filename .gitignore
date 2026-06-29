@@ -1,0 +1,20 @@
+# build output
+dist/
+.wrangler/
+
+# dependencies
+node_modules/
+
+# astro
+.astro/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# env
+.env
+.env.*
+
+# landing html reference
+icraconstruction.html
