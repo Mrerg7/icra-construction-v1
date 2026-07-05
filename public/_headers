@@ -1,5 +1,5 @@
-# Canonical Link header for root path
-/
+# Canonical Link header for HTML responses
+/*
   Link: <https://icra.construction/>; rel="canonical"
 
 # Security headers for HTML
