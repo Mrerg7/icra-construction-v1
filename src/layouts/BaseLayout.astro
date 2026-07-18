@@ -15,7 +15,7 @@ const {
   noindex = false,
 } = Astro.props;
 
-const canonical = SITE_URL;
+const canonical = new URL(Astro.url.pathname, SITE_URL).href;
 const ogImage = HERO_IMAGE_URL;
 const themeColor = '#0D9488';
 ---

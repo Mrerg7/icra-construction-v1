@@ -1,5 +1,9 @@
 # Canonical Link header for HTML responses
-/*
+/*.html
+  Link: <https://icra.construction/>; rel="canonical"
+/*.html/
+  Link: <https://icra.construction/>; rel="canonical"
+/*/
   Link: <https://icra.construction/>; rel="canonical"
 
 # Security headers for HTML

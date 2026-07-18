@@ -1,3 +1,6 @@
 # Canonical URL consolidation for Search Console indexing
 /index.html / 301
 /index.html/ / 301
+
+# www. → apex (belt-and-suspenders with Worker-level redirect)
+https://www.icra.construction/* https://icra.construction/:splat 301
